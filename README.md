@@ -5,4 +5,6 @@ The Content-Based Recommender System suggests movies similar to the user's prefe
 Download dataset from : https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset
 
 Screenshot of Web Application
-![Alt text](C:\Users\User\Downloads\AJAX-Movie-Recommendation-System-with-Sentiment-Analysis-master "Title")
+
+![Capture](https://github.com/sagnikroy10/Recommended-Systems/assets/79736382/e8582d17-b6b5-4c82-ab77-ff4559290e5c)
+
